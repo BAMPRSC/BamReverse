@@ -3,7 +3,7 @@
 **BamReverse** is a lightweight command-line tool that visually shows when a BAM (behavior/activity monitor) was last used.  
 Perfect for scripting, automation, or simple status checks.
 
-![License](https://img.shields.io/github/license/BAMPRSC/BamReverse)
+![License](https://img.shields.io/badge/license-GNU-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
